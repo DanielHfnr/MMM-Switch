@@ -53,24 +53,28 @@ The following properties can be configured:
 			<td><code>echoLeftPin</code></td>
 			<td>Left Sensor's Echo pin.<br>
 				<br><b>Example:</b> <code>23</code>
+				<br><b>Default Value:</b> <code>23</code>
 			</td>
 		</tr>
 		<tr>
 			<td><code>triggerLeftPin</code></td>
 			<td>Left Sensor's Trigger pin.<br>
 				<br><b>Example:</b> <code>17</code
+				<br><b>Default Value:</b> <code>17</code>
 			</td>
 		</tr>
 		<tr>
 			<td><code>echoRightPin</code></td>
 			<td>Right Sensor's Echo pin.<br>
 				<br><b>Example:</b> <code>24</code>
+				<br><b>Default Value:</b> <code>24</code>
 			</td>
 		</tr>
 		<tr>
 			<td><code>triggerRightPin</code></td>
 			<td>GPIO pin that will be activated when you "press" the sensors.<br>
 				<br><b>Example:</b> <code>18</code>
+				<br><b>Default Value:</b> <code>18</code>
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +95,7 @@ The following properties can be configured:
                         <td><code>intervall</code></td>
                         <td>Time intervall when distance is measured by the sensor.<br>
                                 <br><b>Example:</b> <code>2</code>
-                                <br><b>Default Value:</b> <code>2</code>
+                                <br><b>Default Value:</b> <code>1</code>
                         </td>
                 </tr>
 
