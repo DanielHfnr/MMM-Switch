@@ -14,9 +14,9 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
 	{
-		module: 'MMM-Swipe',
-		position: 'bottom_left',	// Doesn't matter after it's setup.  It should be blank.
-									// Best results in one of the side regions like: bottom_left
+		module: 'MMM-Switch',
+		position: 'middle_center',	// Doesn't matter after it's setup.  It should be blank.
+									
 		config: {
 			// See 'Configuration options' for more information.
 			module: 'MMM-Switch',
