@@ -14,13 +14,11 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
 	{
-		module: 'MMM-Switch',
-		position: 'middle_center',	// Doesn't matter after it's setup.  It should be blank.
-									
+						
 		config: {
-			// See 'Configuration options' for more information.
+			
 			module: 'MMM-Switch',
-                        position: 'middle_center',
+                        position: 'middle_center',	// Doesnt matter 
                         config: {
                         	triggerRightPin: 18,
                                 triggerLeftPin: 17,
