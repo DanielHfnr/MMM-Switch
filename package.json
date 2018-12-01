@@ -1,0 +1,25 @@
+{
+  "name": "Magic-Mirror-Module-Switch",
+  "version": "1.0.0",
+  "description": "Module to switch pages an the magic mirror through a ultrasonic sensor",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "switch",
+    "module"
+  ],
+  "author": "Daniel Hafner",
+  "contributors": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "python-shell": "latest"
+    }
+}
