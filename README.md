@@ -29,7 +29,7 @@ modules: [
                                 leftDistance: 10,
                                 rightDistance: 10,
                                 intervall: 2,
-				}	
+			}	
 		}
 	}
 ]
@@ -59,7 +59,7 @@ The following properties can be configured:
 		<tr>
 			<td><code>triggerLeftPin</code></td>
 			<td>Left Sensor's Trigger pin.<br>
-				<br><b>Example:</b> <code>17</code
+				<br><b>Example:</b> <code>17</code>
 				<br><b>Default Value:</b> <code>17</code>
 			</td>
 		</tr>
